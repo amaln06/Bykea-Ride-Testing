@@ -34,3 +34,8 @@ Severity: Medium
 (Does not crash the system but affects business logic and validation integrity)
 Priority: High
 (Core ride booking flow is impacted and may lead to incorrect bookings)
+
+## Conclusion
+This testing activity ensures that the Ride Booking Module is analyzed under different scenarios to detect functional inconsistencies and improve overall system quality. Further end-to-end testing is recommended for complete system validation.
+
+##### Note: Screenshots of test execution and bug reproduction are attached in the repository under relevant test cases.
